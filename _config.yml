@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://UP-MIT-GSL.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+url: http://up-mit-gsl.github.io
+title: MIT Global Startup Labs @ UP Diliman
+subtitle: University of the Philippines, Diliman, Quezon City
+author: efcplaza
+simple_search:
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
