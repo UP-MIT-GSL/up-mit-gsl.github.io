@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://UP-MIT-GSL.github.io/sitemap.xml 
+Sitemap: http://up-mit-gsl.github.io/sitemap.xml 

@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://UP-MIT-GSL.github.io/atom.xml" rel="self"/>
-  <link href="http://UP-MIT-GSL.github.io/"/>
-  <updated>2013-06-16T10:54:35+08:00</updated>
-  <id>http://UP-MIT-GSL.github.io/</id>
+  <title><![CDATA[MIT Global Startup Labs @ UP Diliman]]></title>
+  <link href="http://up-mit-gsl.github.io/atom.xml" rel="self"/>
+  <link href="http://up-mit-gsl.github.io/"/>
+  <updated>2013-06-16T11:57:24+08:00</updated>
+  <id>http://up-mit-gsl.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[efcplaza]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Web/IT Homework 1 (Due: June 22)]]></title>
+    <link href="http://up-mit-gsl.github.io/blog/2013/06/16/web-slash-it-homework-1-due-june-22/"/>
+    <updated>2013-06-16T11:41:00+08:00</updated>
+    <id>http://up-mit-gsl.github.io/blog/2013/06/16/web-slash-it-homework-1-due-june-22</id>
+    <content type="html"><![CDATA[<ul>
+<li><strong>Date issued:</strong> June 15, 2013</li>
+<li><strong>Date due:</strong> June 22, 2013</li>
+</ul>
+
+
+<p>Get setup with angular-momentum in your local machine. Clone the repository at <a href="https://github.com/UP-MIT-GSL/angular-momentum">https://github.com/UP-MIT-GSL/angular-momentum</a> and follow the instructions as provided by the README. You are expected to have angular-momentum setup by the time we meet during the next meeting, on June 22.</p>
+]]></content>
+  </entry>
   
 </feed>

@@ -1,15 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://UP-MIT-GSL.github.io/blog/archives/</loc>
-        <lastmod>2013-06-16T10:49:07+08:00</lastmod>
+        <loc>
+            http://up-mit-gsl.github.io/blog/2013/06/16/web-slash-it-homework-1-due-june-22/
+        </loc>
+        <lastmod>2013-06-16T11:43:15+08:00</lastmod>
     </url>
     <url>
-        <loc>http://UP-MIT-GSL.github.io/</loc>
-        <lastmod>2013-06-16T10:49:07+08:00</lastmod>
+        <loc>http://up-mit-gsl.github.io/about-us/</loc>
+        <lastmod>2013-06-16T11:38:33+08:00</lastmod>
     </url>
     <url>
-        <loc>http://UP-MIT-GSL.github.io/robots.txt</loc>
+        <loc>http://up-mit-gsl.github.io/blog/archives/</loc>
+        <lastmod>2013-06-16T11:57:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://up-mit-gsl.github.io/</loc>
+        <lastmod>2013-06-16T11:53:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://up-mit-gsl.github.io/materials/</loc>
+        <lastmod>2013-06-16T11:38:37+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://up-mit-gsl.github.io/robots.txt</loc>
         <lastmod>2013-06-16T10:49:07+08:00</lastmod>
     </url>
 </urlset>
