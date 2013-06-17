@@ -14,6 +14,7 @@ We will post course materials here as we go along with the semester. For specifi
 * (June 08, 2013) [Lecture 1: Course Introduction and Objectives][2]
 * (June 10, 2013) [Lecture 2: Idea Generation and Refinement][3]
 * (June 15, 2013) [Lecture 3: Gross Profit and Tyrannical Team Formation][4]
+* (June 17, 2013) [Lecture 4: Team Pitches and Team Reshuffling][5]
 
 ### Homework for web/IT track students
 
@@ -26,3 +27,4 @@ If for some reason the hyperlink does not work, please copy the link and paste t
 [2]: https://www.dropbox.com/s/dz4ds8qnosrlfpl/CS197_L1_e.pptx
 [3]: https://www.dropbox.com/s/7xup012wmys3zfb/CS197_L2_e.pptx
 [4]: https://www.dropbox.com/s/s9sxudaoul5ahi2/CS197_L3_e.pptx
+[5]: https://www.dropbox.com/s/o8agtr55le5fjzi/CS197_L4_e.pptx
