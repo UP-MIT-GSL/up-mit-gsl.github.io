@@ -4,7 +4,7 @@
   <title><![CDATA[MIT Global Startup Labs @ UP Diliman]]></title>
   <link href="http://up-mit-gsl.github.io/atom.xml" rel="self"/>
   <link href="http://up-mit-gsl.github.io/"/>
-  <updated>2013-06-17T18:18:43+08:00</updated>
+  <updated>2013-06-22T07:45:14+08:00</updated>
   <id>http://up-mit-gsl.github.io/</id>
   <author>
     <name><![CDATA[efcplaza]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[Exercise] Crowdfunding: Your own little Kickstarter]]></title>
+    <link href="http://up-mit-gsl.github.io/blog/2013/06/22/exercise-crowdfunding-your-own-little-kickstarter/"/>
+    <updated>2013-06-22T07:39:00+08:00</updated>
+    <id>http://up-mit-gsl.github.io/blog/2013/06/22/exercise-crowdfunding-your-own-little-kickstarter</id>
+    <content type="html"><![CDATA[<h4>Technical Goal</h4>
+
+<p>Today&rsquo;s exercise will give you additional practice with basic web design and development, particularly using Coffeescript, Stylus, and Jade. You will develop a single-page web application for crowdfunding your idea. It&rsquo;s like Kickstarter, but solely for your startup idea. For the purposes of this exercise, you will not need to power your web application with a back-end, i.e. data does not have to be persistent. You will only focus on developing an interactive front-end using the technologies we talked about so far in class.</p>
+
+<p>In addition, this exercise will provide you with an opportunity to better write your idea to gather supporters as well as raise funds. You don&rsquo;t need to use the startup idea you have in class (although you certainly can) to complete this exercise.</p>
+
+<p><strong>NOTE:</strong> This exercise is highly open ended. Your mileage will vary depending upon your creativity.</p>
+
+<h4>Details</h4>
+
+<p>Using Jade (HTML), Stylus (CSS), and Coffeescript (Javascript), create a crowdfunder site to raise funds about a particular idea of yours. The following are the requirements for this exercise. However, feel free to go beyond the basic specifications.</p>
+
+<ul>
+<li><p>Your web page should contain the following:</p>
+
+<ul>
+<li>Name of your project/idea</li>
+<li>Short description of idea (in &lt;= five words)</li>
+<li>Your name and contact information</li>
+<li>Details about your project (breakdown in different sections as you see fit)</li>
+</ul>
+</li>
+<li><p>Your web application should allow users to add donation, i.e. accept money. For the purposes of this exercise, you can simply have a textbox that accepts numbers. Use js to handle input and prompts. Please handle the integrity of the input accordingly, i.e. no negative or zero donations, etc.</p></li>
+<li><p>Donations should be tied into a specific donor. Hence, you should also require name input for each donations and display them accordingly. That is, if Bob donates $10, then somewhere in your page should display &lsquo;Bob &ndash; $10&rsquo; or something like that, and other donations should go along like that as well.</p></li>
+<li><p>Your web application should also display donation statistics, i.e. how much donations raised so far, how many more to go &lsquo;til goal is reached, or how many people donated specific ranges of donations. You may add other stats as you think appropriate of necessary.</p></li>
+<li><p>Add a comment system to your web application. That is, allow users to comment on your idea. You can choose to display comments by grouping or all at once, but please make sure to sort them in a specific ordering.</p></li>
+<li><p>Add a support button to your website. Users should be able to click a link or item to support your project and you should display updated number of supports in your page.</p></li>
+</ul>
+
+
+<p><strong>NOTE:</strong> Your data does not need to be persistent. That is, if someone reloads the page, it is OK to lose all inputted data. However, while the page is active, your application should display information accordingly.</p>
+
+<p><strong>ANOTHER NOTE:</strong> UI is important to attract donors! So prettify your stuff as much as possible. More than just the technology stack you&rsquo;re using, creativity is also key here. We haven&rsquo;t talked about UI/UX yet, but please be creative as much as possible.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Web/IT Homework 1 (Due: June 22)]]></title>
